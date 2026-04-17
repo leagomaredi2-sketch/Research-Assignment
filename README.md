@@ -1,2 +1,2 @@
 # Research-Assignment
-This is introductory assignment to data science
+This is introductory theory assignment to data science
